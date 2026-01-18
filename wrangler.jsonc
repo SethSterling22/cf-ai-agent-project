@@ -3,6 +3,7 @@
  * https://developers.cloudflare.com/workers/wrangler/configuration/
  */
 {
+	
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "cf-ai-ccom-assistant",
 	"main": "src/index.ts",
@@ -21,6 +22,11 @@
 		{
 			"binding": "VECTORIZE",
 			"index_name": "ccom_index"
+		}
+	],
+	"AI": [
+		{
+			"binding": "AI"
 		}
 	]
 	/**
