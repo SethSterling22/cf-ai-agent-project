@@ -5,7 +5,7 @@
 {
 	
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "cf-ai-ccom-assistant",
+	"name": "cf-ai-agent-project",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-09-27",
 	"observability": {
