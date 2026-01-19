@@ -2,14 +2,9 @@
 
 work in progress...
 
-
-Para que tu proyecto destaque en la oferta de trabajo, el `README.md` debe ser profesional, técnico y estar bien estructurado. He diseñado este archivo resaltando el uso de **RAG (Retrieval-Augmented Generation)** y la arquitectura "Serverless First".
-
-Copia y pega esto en tu archivo `README.md`:
-
 ---
 
-```markdown
+
 # CCOM Assistant - Cloudflare AI Agent 🎓
 
 A professional AI Assistant for the Computer Science Department (CCOM) at UPR Rio Piedras. Built with a **Serverless RAG Architecture** using Cloudflare Workers, Vectorize, and D1.
