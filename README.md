@@ -157,7 +157,7 @@ Triggers the ingestion of department data into the Vectorize index using `bge-ba
 
 ## Prompt Engineering
 
-Details about the system prompts and tool definitions can be found in the [PROMPTS.md](https://www.google.com/search?q=./PROMPTS.md) file.
+Details about the system prompts and tool definitions can be found in the [PROMPTS.md](./PROMPTS.md) file.
 
 ## Web Scrapping
 
